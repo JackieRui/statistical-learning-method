@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-感知机Perceptron
+感知机 Perceptron
 Author:Jackie
 Date:2020-06-17
 Email:jackie_programmer@126.com
@@ -33,6 +33,7 @@ class Perceptron(object):
         print("x:{}".format(self.x.shape))
         print("y:{}".format(len(self.y)))
 
+    # 训练过程
     def run(self):
         print("perceptron training.....")
         # 训练迭代次数
@@ -47,6 +48,7 @@ class Perceptron(object):
                     self.b = self.b + self.alph * self.y[i]
         print("perceptron train done")
     
+    # 测试过程
     def test(self, data):
         print('perceptron testing.....')
         x = data[:, 1:]
