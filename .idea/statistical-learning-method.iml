@@ -7,6 +7,13 @@
       <sourceFolder url="file://$MODULE_DIR$/01-perceptron" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/02-kNN" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/03-Bayes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04-DecisionTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05-LogisticRegression" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06-SVM" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07-LeastSquares" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08-EM" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09-Kmeans" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-EnsembleLearning" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
